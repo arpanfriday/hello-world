@@ -1,3 +1,4 @@
-# hello-world
-This is the first repository that i am making, and hence call it hello world...looking forward to know more.
-wow....now i am in the branch called "readme-edits". I am here to know more about github. i am still a beginner.
+# Hello sugarlabs/
+Hello
+My name is ARPAN MAITY. This is my first task in Google Code-in 2018. I am looking forwar to learn more about github in futute.
+i feel github to be really useful.
